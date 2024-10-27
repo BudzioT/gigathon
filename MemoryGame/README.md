@@ -32,7 +32,7 @@ podczas swojego ruchu
    .\MemoryGame.exe
    ```
 
-### Z CMake (Pobierz z https://cmake.org/)
+### Z CMake (Pobierz z https://cmake.org/ na Windows, lub na Linux komendą w zależności od dystrybucji)
 
 1. Otwórz terminal
 2. Przejdź do katalogu z plikiem CMakeLists.txt
