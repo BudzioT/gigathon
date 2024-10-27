@@ -14,7 +14,7 @@ podczas swojego ruchu
 
 ## Pliki posiadają krótkie komentarze, mogą one służyć jako opis najważniejszych funkcjonalności
 
-## Kompilacja i uruchomienie na Windows
+## Kompilacja i uruchomienie
 
 ### Bez CMake
 
